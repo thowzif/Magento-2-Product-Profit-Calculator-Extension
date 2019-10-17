@@ -1,0 +1,14 @@
+{
+  "name": "Informatics Price calculator",
+  "description": "Informatics Price calculator for calculating selling price.",
+  "type": "magento2-module",
+  "version": "1.2.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "autoload": {
+    "psr-4": { "Informatics\\Pricecalculator\\": "" },
+    "files": [ "registration.php" ]
+  }
+}
